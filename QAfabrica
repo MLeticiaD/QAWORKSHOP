@@ -1,0 +1,50 @@
+DESAFIO DIA 1 (SeuBarrigaSite )
+ > Pagina de Login e Cadastro/Criação de Contas;
+
+Sugestão1: 
+Assim que o usuário realizar o cadastro, deve ser direcionado imediatamente para o site.
+
+Sugestão2:
+Indicar uma senha mais forte para que os dados do usuário fiquem mais seguros.
+
+Sugestão3:
+Ao errar o email ou senha, site apenas retorna com problemas de login, sem especificar se o usuário errou a senha ou seu email.
+
+Error1:
+Ausência da falta do bloco ´esqueceu senha.´
+
+Error2:
+Ausência da confirmação de senha.
+
+Error3:
+Ausência confirmação de e-mail.
+
+Error4:
+Site não intuitivo.
+
+Error5:
+Usuários sem email podem se cadastrar no site.
+
+Criação de conta:
+
+Error6: 
+É permitido criar uma conta com nome já existente.
+
+Error7:
+É permitido criar criar a senha com um único caractere
+
+Sugestão1:
+Ao ir em criação de conta, especificar o nome a ser colocado.
+
+Home;
+
+error1: Pouco intuitivo.
+
+error2: Não especifica o que é o bloco ´Interessado´.
+
+error3: Home não atualiza pagamentos pendentes.
+
+error4: Não há nenhum bloco para inserir o Saldo positivo.
+
+error5: Não tem como alterar uma dívida pendente para uma conta paga.
+
